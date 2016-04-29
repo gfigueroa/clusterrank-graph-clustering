@@ -1,0 +1,4 @@
+build/
+logs/
+build.xml
+manifest.mf
